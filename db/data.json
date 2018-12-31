@@ -1,0 +1,17 @@
+[
+   {
+      "descripcion": "Salir",
+      "completado": false,
+      "borrado": false
+   },
+   {
+      "descripcion": "Comer",
+      "completado": false,
+      "borrado": false
+   },
+   {
+      "descripcion": "Pasear",
+      "completado": false,
+      "borrado": false
+   }
+]
